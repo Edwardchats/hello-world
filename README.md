@@ -1,3 +1,3 @@
 # hello-world
 Munyaradzi Chabata 
-I am Munyaradzi Chabata i am interested in Python
+I am  interested in Python
